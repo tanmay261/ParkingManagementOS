@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962443328341",
+    "firebase_url": "https://parkingmanagement-c9391-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "parkingmanagement-c9391",
+    "storage_bucket": "parkingmanagement-c9391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962443328341:android:85d18347a2c256dde48ddc",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962443328341-rl2ec3gqs5pd11b9bi58je0dlugpg1f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkXiYcvROqRx5XTSifd2FPxZzdY6IZi_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962443328341-rl2ec3gqs5pd11b9bi58je0dlugpg1f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
